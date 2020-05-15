@@ -1,6 +1,6 @@
 {
-  "name": "desktop-shortcut",
-  "version": "0.0.1",
+  "name": "@osvlabs/desktop-shortcut",
+  "version": "0.0.2",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

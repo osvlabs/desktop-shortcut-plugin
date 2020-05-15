@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="osvlab-desktop-shortcut" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="osvlab-desktop-shortcut" version="0.0.2" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>desktop-shortcut</name>
     <js-module name="DesktopShortcut" src="www/desktopShortcut.js">
         <clobbers target="DesktopShortcut" />
