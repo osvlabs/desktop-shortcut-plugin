@@ -1,7 +1,17 @@
 {
   "name": "@osvlabs/desktop-shortcut",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
+  "cordova": {
+    "id": "osvlab-desktop-shortcut",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osvlabs/desktop-shortcut-plugin"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
