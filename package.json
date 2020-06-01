@@ -1,6 +1,6 @@
 {
   "name": "@osvlabs/desktop-shortcut",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "cordova": {
     "id": "osvlab-desktop-shortcut",
